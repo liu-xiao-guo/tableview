@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=tableview
+Exec=qmlscene $@ Main.qml
+Icon=tableview.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
